@@ -62,9 +62,13 @@ The application utilizes the OpenWeatherMap API to fetch weather data. The API e
 https://api.openweathermap.org/data/2.5/weather?q={city}&appid={API_KEY}&units=metric
 
 Parameters:
+
 q: The name of the city to search for.
+
 appid: Your OpenWeatherMap API key.
+
 units: The unit of measurement (metric for Celsius).
+
 The response contains various weather data, which is then processed and displayed in the app.
 
 ##Continued development 
@@ -75,8 +79,10 @@ React
 ##Useful resources 
 youtube.com/watch?v=zs1Nq2s_uy4&t=14s
 
-##Crdeit
+##Credit
+
 Github- https://github.com/chubicode/
+
 yotube- GreatStack
 
 
