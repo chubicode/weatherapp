@@ -71,15 +71,16 @@ units: The unit of measurement (metric for Celsius).
 
 The response contains various weather data, which is then processed and displayed in the app.
 
-##Continued development 
+## Continued development 
 Consuming APIs
 CSS Grid
 React
 
-##Useful resources 
+## Useful resources 
+
 youtube.com/watch?v=zs1Nq2s_uy4&t=14s
 
-##Credit
+## Credit
 
 Github- https://github.com/chubicode/
 
